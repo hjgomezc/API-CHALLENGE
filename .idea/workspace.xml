@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02a4b7f3-5344-452f-819d-1d1713b4a9be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/GenreSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IDSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IntancesSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/TopFiveSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Id.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/genre.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/src/test/java/APIWork/Entities/interns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/src/test/java/APIWork/Feature/featureT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIWorkshop/src/test/java/APIWork/Steps/stepFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/GUI_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Challenge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/GUI_Workshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/Driver/WebDriverFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/ControlPanelPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/CreateJoinerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/CreateTaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/CreateUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/JoinerManagerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/ManagerPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/TaskBoardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/TaskManagerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/UserManagerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/PagesFactory/UserRolesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/Runner/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/glue/BrowserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/glue/logInSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/java/endava_RampUp/glue/logOutSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Trainning/src/test/resources/features/logout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Workshop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GUI_Workshop/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-44129367">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="2" />
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="2" />
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="feature" value="883" />
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="883" />
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/GenreSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IDSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Id.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IntancesSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/TopFiveSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/genre.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../JAVA/Streams/StreamsChallenge" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/genreSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IntancesSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/TopFiveSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Genre.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/Id.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/genre.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafkaAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafkaAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIChallengeCorrection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIChallengeCorrection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536270160578" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alsanchez\Documents\TESTING\API-CHALLLENGE\APIChallengeCorrection\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a4b7f3-5344-452f-819d-1d1713b4a9be" name="Default Changelist" comment="" />
+      <created>1536251205717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536251205717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="simpleUML" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="UML design tool window" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IntancesSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/TopFiveSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Id.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/IDSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kafkaAPI/Steps/GenreSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/genre.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
